@@ -1,0 +1,2 @@
+# Socio-economic-Analysis---Crimes-against-Women-in-India
+A multivariate analytical study of crimes against women in India using NCRB crime data and Census 2011 socio-economic indicators. The project explores patterns, disparities and associations across crime categories, geography, education, workforce participation and rural–urban structures through Power BI dashboards and structured data analytics.
